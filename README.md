@@ -1,16 +1,23 @@
-## Hi there 👋
+# Edward Amirain
 
-<!--
-**vayner0v/vayner0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software & applied AI engineer. Founder of [Vaynerov Technologies](https://vaynerov.com), a software studio building mobile apps, SaaS platforms and applied AI products.
 
-Here are some ideas to get you started:
+My work spans product architecture, development and the engineering around AI: validating outputs, keeping business rules explicit and making useful interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Explore the Lab
+
+These are public studio Lab projects and engineering experiments.
+
+| Project | What it explores |
+| --- | --- |
+| [Blueprint](https://vaynerov.com/blueprint) | Product architecture and planning, with project estimates calculated by a rules-based engine. Reference blueprints are available to explore. |
+| [Orrery](https://vaynerov.com/orrery) | An interactive satellite visualization that propagates orbital elements in the browser. |
+| [Backbone](https://vaynerov.com/backbone) | A visualization of internet networks and their relationships, with live BGP updates from RIPE route collectors. |
+
+I write about the implementation and tradeoffs in the [Vaynerov Journal](https://vaynerov.com/articles). Start with [how Blueprint keeps pricing outside the language model](https://vaynerov.com/articles/an-ai-architect-with-honest-prices).
+
+## Connect
+
+[Vaynerov Technologies](https://vaynerov.com) · [Personal website](https://edwardamirain.com) · [LinkedIn](https://www.linkedin.com/in/edwardamirain/)
+
+Interested in product engineering, applied AI, and conversations with other founders and builders.
