@@ -45,3 +45,5 @@ I write about the implementation and tradeoffs in the [Vaynerov Journal](https:/
 
 Interested in product engineering, applied AI, and conversations with other founders and builders.
 
+Planning a software project? [Start with our project worksheet](https://vaynerov.com/resources/project-brief.html). Fill in what you know and download a copy that marks the open questions for your team.
+
