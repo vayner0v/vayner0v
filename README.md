@@ -31,6 +31,8 @@ I write about the implementation and tradeoffs in the [Vaynerov Journal](https:/
 
 ## Engineering notes
 
+[Who can ship the next version?](https://gist.github.com/vayner0v/6e6765cc144f87b2d9fbd35219bd2f13) gives software buyers a handover exercise they can run with their team. It is available in English, Simplified Chinese and French.
+
 [When does an online auction lot actually sell?](https://telegra.ph/When-does-an-online-auction-lot-actually-sell-11-27) follows a bid from its arrival to the auctioneer’s decision and explains which event the screens should trust.
 
 [What to check before retrying an uncertain operation](https://www.linkedin.com/feed/update/urn:li:activity:7519656780348461057/) is a short design checklist for lost responses, operation identifiers, retention windows and confirming outcomes. It links to the Amazon Builders' Library for the underlying idempotency discussion.
