@@ -31,12 +31,14 @@ I write about the implementation and tradeoffs in the [Vaynerov Journal](https:/
 
 ## Engineering notes
 
+[When does an online auction lot actually sell?](https://telegra.ph/When-does-an-online-auction-lot-actually-sell-11-27) follows a bid from its arrival to the auctioneer’s decision and explains which event the screens should trust.
+
 [What to check before retrying an uncertain operation](https://www.linkedin.com/feed/update/urn:li:activity:7519656780348461057/) is a short design checklist for lost responses, operation identifiers, retention windows and confirming outcomes. It links to the Amazon Builders' Library for the underlying idempotency discussion.
 
 ## Connect
 
 
-[Vaynerov Technologies](https://vaynerov.com) · [Personal website](https://edwardamirain.com) · [LinkedIn](https://www.linkedin.com/in/edwardamirain/) · [DEV profile](https://dev.to/edwardamirain)
+[Vaynerov Technologies](https://vaynerov.com) · [Personal website](https://edwardamirain.com) · [LinkedIn](https://www.linkedin.com/in/edwardamirain/) · [DEV profile](https://dev.to/edwardamirain) · [Vaynerov on Nostr](https://njump.me/nprofile1qyt8wumn8ghj7un9d3shjtnswf5k6ctv9ehx2aqqypgslx7uml9h6wa6r83xjcqjhf3xdk3fum4sw5aukjg8j80gznkdknp0yjv)
 
 
 Interested in product engineering, applied AI, and conversations with other founders and builders.
