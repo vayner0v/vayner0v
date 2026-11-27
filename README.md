@@ -7,6 +7,12 @@ Software & applied AI engineer. Founder of [Vaynerov Technologies](https://vayne
 My work spans product architecture, development and the engineering around AI: validating outputs, keeping business rules explicit and making useful interfaces. Read my [founder biography and selected engineering work](https://vaynerov.com/about#founder).
 
 
+## Selected client work
+
+[White Knight Auction](https://vaynerov.com/work/white-knight-auction) uses a platform Vaynerov Technologies designed, built and runs. A bidder can follow a lot from the catalog into the live sale, and the auctioneer and clerk work from the same sale record.
+
+Our [engineering note on concurrent bids](https://vaynerov.com/articles/three-hundred-bidders-two-seconds) explains how we checked bid ordering and the prices shown on simulated screens. Across 38 test runs, all 29,151 simulated bids were accounted for.
+
 ## Explore the Lab
 
 
