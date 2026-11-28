@@ -47,3 +47,5 @@ Interested in product engineering, applied AI, and conversations with other foun
 
 Planning a software project? [Start with our project worksheet](https://vaynerov.com/resources/project-brief.html). Fill in what you know and download a copy that marks the open questions for your team.
 
+Already building? [软件需求变更单 · Software scope change worksheet](https://github.com/vayner0v/vayner0v/blob/main/worksheets/scope-change-zh-en.md) gives Chinese- and English-speaking teams a shared form for deciding what changes, how to test it, and who approves it.
+
